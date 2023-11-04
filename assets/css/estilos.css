@@ -22,16 +22,19 @@ body {
    font-size: 14px;
 }
 
-/* Mis trabajos */
-
 #Mis-trabajos .image-top {
-  height: 250px;
+  height: 350px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  height: 0;
+  padding-top: 60%; 
 }
 
-/* Contacto */
+.work {
+  background-color: gray; 
+}
+
 
 #Contacto form label {
   font-weight: 700;
