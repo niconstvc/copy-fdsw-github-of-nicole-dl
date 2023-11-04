@@ -8,10 +8,18 @@ body {
 }
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("/assets/img/Portada.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
+}
+
+.container h1{
+  font-size: 63px;
+}
+
+.container p {
+   font-size: 14px;
 }
 
 /* Mis trabajos */
